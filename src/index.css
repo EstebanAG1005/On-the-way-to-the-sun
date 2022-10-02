@@ -1,5 +1,9 @@
 body {
-    background:blanchedalmond;
+    background: aqua;
     padding: 5%;
     font-family: 'Inter Tight', sans-serif;
+}
+
+.nasa {
+    width: auto;
 }
